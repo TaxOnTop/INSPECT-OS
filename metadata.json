@@ -1,0 +1,5 @@
+{
+  "description": "NVDA Hybrid - Edge ML Defect Detection for Die-Casting. Uses a high-performance local weighted ensemble classifier to identify internal defects from dimensional CMM data.",
+  "requestFramePermissions": [],
+  "name": "INSPECT-OS"
+}
